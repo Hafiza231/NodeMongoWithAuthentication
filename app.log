@@ -1,0 +1,81 @@
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get User by Id","level":"debug"}
+{"message":"Routes[user.js]: users","level":"info"}
+{"message":"Routes[user.js]: Get User by Id","level":"debug"}
+{"message":"Routes[user.js]: users","level":"info"}
+{"message":"Routes[user.js]: Get User by Id","level":"debug"}
+{"message":"Routes[user.js]: users","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Create Quote","level":"debug"}
+{"message":"Routes[quotes.js]: {\n  \"quote\": \"test\",\n  \"author\": \"test\",\n  \"created\": \"\",\n  \"likes\": \"\",\n  \"createdBy\": \"1\"\n}","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Update Quote By Id","level":"debug"}
+{"message":"Routes[quotes.js]: [object Object]","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Update Quote By Id","level":"debug"}
+{"message":"Routes[quotes.js]: [object Object]","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Controller[user.js]: deep","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Create Quote","level":"debug"}
+{"message":"Routes[quotes.js]: {\n  \"quote\": \"deep test\",\n  \"author\": \"deep test\",\n  \"created\": \"\",\n  \"likes\": \"\",\n  \"createdBy\": \"2\"\n}","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Update Quote By Id","level":"debug"}
+{"message":"Routes[quotes.js]: [object Object]","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get Quote By Id","level":"debug"}
+{"message":"Routes[quotes.js]: 2","level":"info"}
+{"message":"Routes[quotes.js]: Update Quote By Id","level":"debug"}
+{"message":"Routes[quotes.js]: [object Object]","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Create Quote","level":"debug"}
+{"message":"Routes[quotes.js]: {\n  \"quote\": \"deep test2\",\n  \"author\": \"test2\",\n  \"created\": \"\",\n  \"likes\": \"\",\n  \"createdBy\": \"2\"\n}","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Update Quote By Id","level":"debug"}
+{"message":"Routes[quotes.js]: [object Object]","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Delete Quote By Id","level":"debug"}
+{"message":"Routes[quotes.js]: 3","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[user.js]: Get User by Id","level":"debug"}
+{"message":"Routes[user.js]: 2","level":"info"}
+{"message":"Controller[user.js]: admin","level":"info"}
+{"message":"Controller[user.js]: TypeError: Cannot read property 'password' of null","level":"error"}
+{"message":"Controller[user.js]: fiza","level":"info"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Create Quote","level":"debug"}
+{"message":"Routes[quotes.js]: {\n  \"author\": \"Payal\",\n  \"quote\": \"Tit for Tat\",\n  \"created\": \"20/9/2020\",\n  \"likes\": 50,\n  \"createdBy\": \"Payal\"\n}","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Controller[user.js]: fiza","level":"info"}
+{"message":"Controller[user.js]: TypeError: Cannot read property 'password' of null","level":"error"}
+{"message":"Controller[user.js]: fiza","level":"info"}
+{"message":"Controller[user.js]: TypeError: Cannot read property 'password' of null","level":"error"}
+{"message":"Routes[user.js]: Get All User","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Controller[user.js]: Hafiza","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}
+{"message":"Routes[quotes.js]: Create Quote","level":"debug"}
+{"message":"Routes[quotes.js]: {\n  \"author\": \"Payal\",\n  \"quote\": \"Tit for Tat\",\n  \"created\": \"20/9/2020\",\n  \"likes\": 50,\n  \"createdBy\": \"Payal\"\n}","level":"info"}
+{"message":"Routes[quotes.js]: Get All Quotes","level":"debug"}

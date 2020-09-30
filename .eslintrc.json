@@ -1,0 +1,36 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "airbnb-base",
+        "plugin:security/recommended"
+    ],
+    "plugins": [
+        "security"
+      ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "rules": {
+        "no-console": "error",
+        "require-atomic-updates": "error",
+        "no-trailing-spaces": "error",
+        "security/detect-object-injection": "error",
+        "no-var": "error",
+        "prefer-const": "warn",
+        "quotes": [
+            "warn",
+            "single"
+        ],
+        "prefer-object-spread": "warn",
+        "prefer-template": "warn",
+        "semi": "warn"
+    }
+}

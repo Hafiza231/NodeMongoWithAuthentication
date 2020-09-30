@@ -1,0 +1,44 @@
+{
+    "name": "nodemongoassignment",
+    "version": "1.0.0",
+    "description": "Nodejs and MongoDB assignment",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon --exec npx babel-watch src/server.js",
+        "build": "npx babel src -d build",
+        "test": "npx jest"
+    },
+    "keywords": [],
+    "author": "Deep Makadia",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/cli": "7.8.4",
+        "@babel/core": "^7.9.0",
+        "@babel/node": "^7.8.7",
+        "@babel/preset-env": "^7.9.0",
+        "babel-preset-minify": "",
+        "babel-watch": "^7.0.0",
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb-base": "^14.1.0",
+        "eslint-plugin-import": "^2.20.2",
+        "eslint-plugin-security": "^1.4.0",
+        "jest": "^25.5.4",
+        "nodemon": "^2.0.4",
+        "supertest": "^4.0.2"
+    },
+    "dependencies": {
+        "bcrypt": "^4.0.1",
+        "core-js": "^3.2.1",
+        "dotenv": "^8.2.0",
+        "jsonwebtoken": "^8.5.1",
+        "winston": "^3.2.1",
+        "express": "^4.17.1",
+        "mongoose": "^5.9.15"
+    },
+    "jest": {
+        "testEnvironment": "node",
+        "coveragePathIgnorePatterns": [
+            "/node_modules/"
+        ]
+    }
+}
